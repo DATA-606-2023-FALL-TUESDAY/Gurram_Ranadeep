@@ -33,7 +33,7 @@ In the end, this thorough analysis equips users with data-driven insights to mak
 - Data sources: https://www.kaggle.com/datasets/jboysen/london-crime
 - Data size: 127 MB
 - Data shape: # Number of rows - 1048575 and # Number of  columns - 7
-- Time Period - The Dataset contains data for 8 years ie. from 2008 tp 2016
+- Time Period - The Dataset contains data for 8 years ie. from 2008 to 2016
 
 **What features are important, what column means what**
 
