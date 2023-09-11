@@ -1,7 +1,7 @@
 # DATA606 - Capstone Proposal 
 
 ## Title and Author
-- **Title** : Predctive London:A Crime Analysis Initiative
+- **Title** : Predctive London: A Crime Analysis Initiative
 - **Author** : Gurram Ranadeep Reddy
 ## DATA 606: CAPSTON PROJECT PROPOSAL
 - https://github.com/Ranadeepgurram/UMBC-DATA606-FALL203-TUESDAY
