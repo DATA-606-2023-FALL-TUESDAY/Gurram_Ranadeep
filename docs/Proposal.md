@@ -17,17 +17,17 @@ In the end, this thorough analysis equips users with data-driven insights to mak
 
 
 **Research Questions**
-1.Are there any observable trends or patterns in the way that total crime rates changed over time?
+-1.Are there any observable trends or patterns in the way that total crime rates changed over time?
 
-2.Are there any months when certain crimes tend to happen more frequently than others?
+-2.Are there any months when certain crimes tend to happen more frequently than others?
 
-3.Are there seasonal variations in crime rates, and if so, what might explain these fluctuations?
+-3.Are there seasonal variations in crime rates, and if so, what might explain these fluctuations?
 
-4.Can we create a prediction model based on historical data to anticipate future crime rates?
+-4.Can we create a prediction model based on historical data to anticipate future crime rates?
 
-5.Do certain main crime categories frequently co-occur in the same neighborhoods or seasons?
+-5.Do certain main crime categories frequently co-occur in the same neighborhoods or seasons?
 
-6.Are there any statistical anomalies or outliers that stand out, such as months or boroughs with very high or low crime rates?
+-6.Are there any statistical anomalies or outliers that stand out, such as months or boroughs with very high or low crime rates?
 
 
 
