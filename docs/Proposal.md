@@ -30,15 +30,16 @@ Vehicle emissions of carbon dioxide (CO2) are a significant factor in climate ch
 - Data shape: # Number of rows - 6282 and # Number of  columns - 12
 
 **What features are important, what column means what**
-1.Make: Company of the vehicle.
-2.Model: Car model.
-3.Vehicle Class: A classification of vehicles based on their weight, utility, and capacity.
-4.Engine Size: Engine Size (in Litres).
-5.Cylinders: Number of cylinders.
-6.Transmission: Transmission type with number of gears.
-7.Fuel Type: Type of Fuel used.
-8.Fuel Consumption City: Fuel used on city roads per 100 km.
-9.Fuel Consumption Hwy: Fuel consumption in Hwy roads (L/100 km).
-10.Fuel Consumption Comb: The combined fuel consumption (45% on the highway and 55% in the cities) is displayed in L/100 km.
-11.Fuel Consumption Comb mpg: The combined fuel consumption in both city and highway is shown in mile per gallon(mpg)
+- 1.Make: Company of the vehicle.
+- 2.Model: Car model.
+- 3.Vehicle Class: A classification of vehicles based on their weight, utility, and capacity.
+- 4.Engine Size: Engine Size (in Litres).
+- 5.Cylinders: Number of cylinders.
+- 6.Transmission: Transmission type with number of gears.
+- 7.Fuel Type: Type of Fuel used.
+- 8.Fuel Consumption City: Fuel used on city roads per 100 km.
+- 9.Fuel Consumption Hwy: Fuel consumption in Hwy roads (L/100 km).
+- 10.Fuel Consumption Comb: The combined fuel consumption (45% on the highway and 55% in the cities) is displayed in L/100 
+  km.
+- 11.Fuel Consumption Comb mpg: The combined fuel consumption in both city and highway is shown in mile per gallon(mpg)
 
