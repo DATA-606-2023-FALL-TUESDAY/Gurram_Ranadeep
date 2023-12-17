@@ -3,6 +3,7 @@
 ## Title and Author
 - **Title** : Prediction of CO2 Emission from Vehicles
 - **Author** : Gurram Ranadeep Reddy
+- Fall 2023
 - https://github.com/Ranadeepgurram/UMBC-DATA606-FALL203-TUESDAY
 - https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
 - **Link to your PowerPoint presentation file** - In Progress
