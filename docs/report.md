@@ -220,6 +220,11 @@ Vehicle emissions of carbon dioxide (CO2) are a significant factor in climate ch
 
 * The regression models, including Random Forest and XGBoost, exhibited high accuracy in predicting CO2 emissions. Model selection should be tailored to application needs, with considerations for interpretability and computational efficiency.
 
+# Future Scope
+
+* To incorporate this model into a user-friendly  web application that allows users to enter car information and receive accurate CO2 emission estimates
+
+
 
 
 
