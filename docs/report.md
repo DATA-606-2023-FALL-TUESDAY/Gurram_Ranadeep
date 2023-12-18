@@ -6,7 +6,7 @@
 - Fall 2023
 - [GitHub]( https://github.com/Ranadeepgurram/UMBC-DATA606-FALL203-TUESDAY)
 - [LinkedIn]([linkedin.com/in/alekhyanarala](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit))
-- [presentation](https://github.com/DATA-606-2023-FALL-TUESDAY/Narala_Alekhya/blob/main/docs/Garbage_Classification.pptx)
+- [presentation](https://docs.google.com/presentation/d/1ikZ7zktLEsU8QH-QFqqUMJ72cBo-se_x/edit?usp=drive_link&ouid=104919725301177379198&rtpof=true&sd=true)
 - [YouTube video](https://youtu.be/LDS2K5xrWrs)
 
     
