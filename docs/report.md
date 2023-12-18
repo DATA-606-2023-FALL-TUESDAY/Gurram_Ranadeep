@@ -4,10 +4,10 @@
 - **Title** : Prediction of CO2 Emission from Vehicles
 - **Author** : Gurram Ranadeep Reddy
 - Fall 2023
-- https://github.com/Ranadeepgurram/UMBC-DATA606-FALL203-TUESDAY
-- https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
-- **Link to your PowerPoint presentation file** - In Progress
-- ** YouTube video** - https://youtu.be/LDS2K5xrWrs
+- [GitHub]( https://github.com/Ranadeepgurram/UMBC-DATA606-FALL203-TUESDAY)
+- [LinkedIn]([linkedin.com/in/alekhyanarala](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit))
+- [presentation](https://github.com/DATA-606-2023-FALL-TUESDAY/Narala_Alekhya/blob/main/docs/Garbage_Classification.pptx)
+- [YouTube video]([https://youtu.be/z02oobgKhJY](https://youtu.be/LDS2K5xrWrs))
 
     
 ## Background
